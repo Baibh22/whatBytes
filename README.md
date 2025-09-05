@@ -33,10 +33,6 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
-### 5. Run Demo
-```bash
-python demo.py
-```
 
 ## API Endpoints
 
